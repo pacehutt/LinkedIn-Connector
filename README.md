@@ -13,10 +13,10 @@ To install the extension, follow these steps:
 - The extension will now be installed in your browser.
 
 ## How to use?
--Go to the LinkedIn search results page that you want to connect with.
--Click on the extension icon on the top right corner of your browser window.
--Click the "Connect" button in the extension popup.
--The extension will automatically click the "Connect" button for each profile listed in the search results page.
+- Go to the LinkedIn search results page that you want to connect with.
+- Click on the extension icon on the top right corner of your browser window.
+- Click the "Connect" button in the extension popup.
+- The extension will automatically click the "Connect" button for each profile listed in the search results page.
 
 ## Permissions
 This extension requires the following permissions:
